@@ -7,5 +7,4 @@ develop changes
 latest changes
 git gui
 revert
-revert head
 
